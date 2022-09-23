@@ -1,6 +1,16 @@
 # pglife
 Pglife is a Student accommodation website where students can search for PGs in different cities of India.
 
+# Features of the website
+
+1.Authentication is used(**Encrpyted passwards**).
+
+2.you can see your interested property in your **Personalised dashboard**.
+
+3.Logout/Login feature(**Cookies**).
+
+4.PGLife is a **fully responsive website** which will rescale itself to **preserve the user experience  look and feel across all devices — with no irritating zooming, scrolling or resizing**.
+
 # Website
 Link : https://pglife.great-site.net/
 
