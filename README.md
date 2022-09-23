@@ -8,11 +8,17 @@ Link : https://pglife.great-site.net/
 
 ## Front-end 
 HTML
+
 CSS
+
+BOOTSTRAP
+
 JAVASCRIPT
+
 
 ## Back-end
 MySQL(DBMS)
+
 PHP
 
 
@@ -35,4 +41,8 @@ PHP
 
 ## MySQL database
 ![2022-09-23 (6)](https://user-images.githubusercontent.com/84157284/191889330-d7e95fc8-b9ec-4ed4-97ad-5c573715e88e.png)
+
+## Dashboard
+![2022-09-23 (8)](https://user-images.githubusercontent.com/84157284/191896959-8a2aab5d-9d18-4160-9dcd-51bf0ec1cfe5.png)
+
 
