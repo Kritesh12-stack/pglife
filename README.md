@@ -11,7 +11,7 @@ Pglife is a Student accommodation website where students can search for PGs in d
 
 4.PGLife is a **fully responsive website** which will rescale itself to **preserve the user experience  look and feel across all devices — with no irritating zooming, scrolling or resizing**.
 
-5. **SSL** certified Website
+5.**SSL certified** Website
 
 # Website
 Link : https://pglife.great-site.net/
