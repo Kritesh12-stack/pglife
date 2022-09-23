@@ -1,8 +1,8 @@
 <?php
-$server = "localhost";
-$username = "id19607148_kritesh";
-$password = "U7b}LfrY*n!#3d?=";
-$dbname = "id19607148_pglifedatabase";
+$server = "";
+$username = "";
+$password = "";
+$dbname = "";
 $conn = mysqli_connect($server,$username,$password,$dbname);
 
 if (mysqli_connect_errno()) {
